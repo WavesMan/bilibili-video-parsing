@@ -1,0 +1,24 @@
+build/Get BiliBili Stream.exe/Analysis-00.toc
+build/Get BiliBili Stream.exe/base_library.zip
+build/Get BiliBili Stream.exe/EXE-00.toc
+build/Get BiliBili Stream.exe/Get BiliBili Stream.pkg
+build/Get BiliBili Stream.exe/PKG-00.toc
+build/Get BiliBili Stream.exe/PYZ-00.pyz
+build/Get BiliBili Stream.exe/PYZ-00.toc
+build/Get BiliBili Stream.exe/warn-Get BiliBili Stream.exe.txt
+build/Get BiliBili Stream.exe/xref-Get BiliBili Stream.exe.html
+build/Get BiliBili Stream.exe/localpycs/pyimod01_archive.pyc
+build/Get BiliBili Stream.exe/localpycs/pyimod02_importers.pyc
+build/Get BiliBili Stream.exe/localpycs/pyimod03_ctypes.pyc
+build/Get BiliBili Stream.exe/localpycs/pyimod04_pywin32.pyc
+build/Get BiliBili Stream.exe/localpycs/struct.pyc
+dist/Get BiliBili Stream.exe
+upx-4.2.4-win64/COPYING
+upx-4.2.4-win64/LICENSE
+upx-4.2.4-win64/NEWS
+upx-4.2.4-win64/README
+upx-4.2.4-win64/THANKS.txt
+upx-4.2.4-win64/upx-doc.html
+upx-4.2.4-win64/upx-doc.txt
+upx-4.2.4-win64/upx.1
+upx-4.2.4-win64/upx.exe
