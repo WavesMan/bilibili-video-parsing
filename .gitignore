@@ -22,3 +22,54 @@ upx-4.2.4-win64/upx-doc.html
 upx-4.2.4-win64/upx-doc.txt
 upx-4.2.4-win64/upx.1
 upx-4.2.4-win64/upx.exe
+build/BiliBili Video Parsing/Analysis-00.toc
+build/BiliBili Video Parsing/base_library.zip
+build/BiliBili Video Parsing/BiliBili Video Parsing.pkg
+build/BiliBili Video Parsing/EXE-00.toc
+build/BiliBili Video Parsing/PKG-00.toc
+build/BiliBili Video Parsing/PYZ-00.pyz
+build/BiliBili Video Parsing/PYZ-00.toc
+build/BiliBili Video Parsing/warn-BiliBili Video Parsing.txt
+build/BiliBili Video Parsing/xref-BiliBili Video Parsing.html
+build/BiliBili Video Parsing/localpycs/pyimod01_archive.pyc
+build/BiliBili Video Parsing/localpycs/pyimod02_importers.pyc
+build/BiliBili Video Parsing/localpycs/pyimod03_ctypes.pyc
+build/BiliBili Video Parsing/localpycs/pyimod04_pywin32.pyc
+build/BiliBili Video Parsing/localpycs/struct.pyc
+build/gui/Analysis-00.toc
+build/gui/base_library.zip
+build/gui/BiliBili-Video-Parsing.pkg
+build/gui/EXE-00.toc
+build/gui/gui.pkg
+build/gui/PKG-00.toc
+build/gui/PYZ-00.pyz
+build/gui/PYZ-00.toc
+build/gui/warn-gui.txt
+build/gui/xref-gui.html
+build/gui/localpycs/pyimod01_archive.pyc
+build/gui/localpycs/pyimod02_importers.pyc
+build/gui/localpycs/pyimod03_ctypes.pyc
+build/gui/localpycs/pyimod04_pywin32.pyc
+build/gui/localpycs/struct.pyc
+dist/BiliBili-Video-Parsing.exe
+__pycache__/about_page.cpython-312.pyc
+__pycache__/get_bilibili_stream.cpython-312.pyc
+__pycache__/sponsor_page.cpython-312.pyc
+__pycache__/windowsmanager.cpython-312.pyc
+old/build/Get BiliBili Stream.exe/Analysis-00.toc
+old/build/Get BiliBili Stream.exe/base_library.zip
+old/build/Get BiliBili Stream.exe/EXE-00.toc
+old/build/Get BiliBili Stream.exe/Get BiliBili Stream.pkg
+old/build/Get BiliBili Stream.exe/PKG-00.toc
+old/build/Get BiliBili Stream.exe/PYZ-00.pyz
+old/build/Get BiliBili Stream.exe/PYZ-00.toc
+old/build/Get BiliBili Stream.exe/warn-Get BiliBili Stream.exe.txt
+old/build/Get BiliBili Stream.exe/xref-Get BiliBili Stream.exe.html
+old/build/Get BiliBili Stream.exe/localpycs/pyimod01_archive.pyc
+old/build/Get BiliBili Stream.exe/localpycs/pyimod02_importers.pyc
+old/build/Get BiliBili Stream.exe/localpycs/pyimod03_ctypes.pyc
+old/build/Get BiliBili Stream.exe/localpycs/pyimod04_pywin32.pyc
+old/build/Get BiliBili Stream.exe/localpycs/struct.pyc
+old/dist/Get BiliBili Stream.exe
+tree
+jsconfig.json
