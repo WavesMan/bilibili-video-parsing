@@ -73,3 +73,20 @@ old/build/Get BiliBili Stream.exe/localpycs/struct.pyc
 old/dist/Get BiliBili Stream.exe
 tree
 jsconfig.json
+asset/dist/gui.exe
+asset/build/gui/Analysis-00.toc
+asset/build/gui/base_library.zip
+asset/build/gui/EXE-00.toc
+asset/build/gui/gui.pkg
+asset/build/gui/PKG-00.toc
+asset/build/gui/PYZ-00.pyz
+asset/build/gui/PYZ-00.toc
+asset/build/gui/warn-gui.txt
+asset/build/gui/xref-gui.html
+asset/build/gui/localpycs/pyimod01_archive.pyc
+asset/build/gui/localpycs/pyimod02_importers.pyc
+asset/build/gui/localpycs/pyimod03_ctypes.pyc
+asset/build/gui/localpycs/pyimod04_pywin32.pyc
+asset/build/gui/localpycs/struct.pyc
+asset/build/gui/BiliBili-Video-Parsing.pkg
+asset/dist/BiliBili-Video-Parsing.exe

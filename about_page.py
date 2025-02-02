@@ -5,7 +5,7 @@ import webbrowser
 class AboutPage:
     def __init__(self, root):
         self.root = root
-        self.current_version = "v1.0.0"  # 当前版本
+        self.current_version = "v1.1.0"  # 当前版本
         self.create_about_page()
 
     def create_about_page(self):
